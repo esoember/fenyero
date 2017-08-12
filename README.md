@@ -1,0 +1,2 @@
+# fenyero
+Fényerő szabályzás időre
